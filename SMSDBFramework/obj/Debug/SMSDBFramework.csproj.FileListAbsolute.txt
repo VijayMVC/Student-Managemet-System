@@ -1,0 +1,8 @@
+C:\Users\Hamza\source\repos\StudentManager\SMSDBFramework\bin\Debug\SMSDBFramework.dll
+C:\Users\Hamza\source\repos\StudentManager\SMSDBFramework\bin\Debug\SMSDBFramework.pdb
+C:\Users\Hamza\source\repos\StudentManager\SMSDBFramework\obj\Debug\SMSDBFramework.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\StudentManager\SMSDBFramework\obj\Debug\SMSDBFramework.dll
+C:\Users\Hamza\source\repos\StudentManager\SMSDBFramework\obj\Debug\SMSDBFramework.pdb
+C:\Users\Hamza\source\repos\StudentManager\SMSDBFramework\obj\Debug\SMSDBFramework.Windows.WinControls.SMSDateTimePicker.resources
+C:\Users\Hamza\source\repos\StudentManager\SMSDBFramework\obj\Debug\SMSDBFramework.csproj.GenerateResource.cache
+C:\Users\Hamza\source\repos\StudentManager\SMSDBFramework\obj\Debug\SMSDBFramework.csprojAssemblyReference.cache
